@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Dev+Batra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Dev+Batra!;">
+</img>
 </h1>
 
-<h3 align="center"><b>A passionate frontend developer from India</b></h3>
-<div align="center">
-<img align=“center” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-</div>
+<h3 align="center"><b>A passionate frontend developer from India</b></h3><br>
 
 <div align="center">
 
