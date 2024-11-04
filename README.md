@@ -19,7 +19,7 @@
 
  📫 How to reach me **devbatra2004@gmail.com**
 
-⚡ Fun fact **I think i am funny😅**
+
  </div>
 <div align="center"> 
 </div>
