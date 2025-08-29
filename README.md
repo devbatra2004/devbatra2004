@@ -1,56 +1,119 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Dev+Batra!;">
-</img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=45&duration=3000&pause=800&color=DD2727&center=true&vCenter=true&random=false&width=550&lines=🔥+System+Breached...;Hi+There!+👋;+I'm+Dev+Batra;⚡Frontend+Sorcerer;💀Code+Warrior+%7C+Bug+Slayer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center"><b>A passionate frontend developer from India</b></h3><br>
+<h3 align="center"><b style="color:#DD2727;">A passionate frontend developer from India</b></h3><br>
 
 <div align="center">
 
- 🔭 I’m currently working on [front-end-development](https://github.com/devbatra2004/FED)
+  <a href="https://github.com/devbatra2004/FED">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=DD2727&center=true&vCenter=true&width=700&background=00000000&lines=🔭+I%E2%80%99m+currently+working+on+Front-End+Development"
+      alt="Working on Front-End Development"
+    />
+  </a>
 
- 🌱 I’m currently learning **React,frameworks and back-end-development**
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=DD2727&center=true&vCenter=true&width=700&background=00000000&lines=🌱+Learning+React%2C+Frameworks+%26+Back-End+Development"
+    alt="Learning React, Frameworks & Back-End Development"
+  />
 
- 👨‍💻 All of my projects are available at [https://github.com/devbatra2004/FED](https://github.com/devbatra2004/FED)
+  <a href="https://github.com/devbatra2004">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=DD2727&center=true&vCenter=true&width=700&background=00000000&lines=👨‍💻+All+of+my+projects+are+available+on+GitHub"
+      alt="Projects on GitHub"
+    />
+  </a>
 
- 💬 Ask me about **front-end-development**
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=DD2727&center=true&vCenter=true&width=700&background=00000000&lines=💬+Ask+me+about+Front-End+Development"
+    alt="Ask me about Front-End Development"
+  />
 
- 📫 How to reach me **devbatra2004@gmail.com**
+  <a href="mailto:devbatra2004@gmail.com">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1200&color=DD2727&center=true&vCenter=true&width=700&background=00000000&lines=📫+Reach+me%3A+devbatra2004%40gmail.com"
+      alt="Reach me: devbatra2004@gmail.com"
+    />
+  </a>
 
-
- </div>
-<div align="center"> 
 </div>
-<hr/>
-<div align="center">
-<h3><b></b>Connect with me:<b></h3>
-<p>
-<a href="https://linkedin.com/in/dev batra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev batra" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_batra_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_batra_8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devbatra2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devbatra2004" height="30" width="40" /></a>
+
+
+
+<!-- Fiery Bloody Red Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+       alt="snake animation"
+       style="filter: hue-rotate(320deg) saturate(800%) brightness(0.9) contrast(200%);" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=32&center=true&vCenter=true&width=600&lines=🐍+Beware+the+Bloody+Snake+🔥;Danger+is+Coming+...;Run+Before+It+Bites+🩸" />
 </p>
-<br>
-</div>
-<hr/>
 
-  
-<h3 align="center"><b>Languages and Tools:</h3>
+<p align="center">
+  <img src="https://i.ibb.co/4Z0kzbs/bloody-text.gif" alt="Bloody Snake Text"/>
+</p>
 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-</div>
-<hr/>
-<b><h3 align="center">⚡Stats⚡</h3></b>
-<br>
-<div align="center">
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=devbatra2004&show_icons=true&locale=en&layout=compact" alt="devbatra2004" /></p>
+<h3 align="center"><b>🌐 Connect with me</b></h3>
+<p align="center">
+<a href="https://linkedin.com/in/dev batra" target="blank"><img src="https://img.shields.io/badge/LinkedIn-DD2727?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/dev_batra_8" target="blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=DD2727" /></a>
+<a href="https://www.leetcode.com/devbatra2004" target="blank"><img src="https://img.shields.io/badge/LeetCode-800000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=devbatra2004&show_icons=true&locale=en" alt="devbatra2004" /></p>
-<br/>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devbatra2004&" alt="devbatra2004" /></p>
-<p><a href="https://www.buymeacoffee.com/dev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parth" /></a></p><br><br>
-<hr/>
+<h3 align="center"><b>⚒️ Languages & Tools ⚒️</b></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-DD2727?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-800000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=DD2727" />
+  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-DD2727?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=DD2727" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000" />
+</p>
+
+---
+
+<h3 align="center"><b>⚡ Stats ⚡</b></h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbatra2004&show_icons=true&theme=radical&title_color=DD2727&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" height="180em" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbatra2004&layout=compact&theme=radical&title_color=DD2727&text_color=FFFFFF&bg_color=000000" height="180em" />
+</p>
+
+---
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbatra2004&theme=radical&fire=DD2727&ring=FF0000&currStreakLabel=FFFFFF&background=000000&stroke=FF0000&sideNums=DD2727&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me A Coffee" style="box-shadow: 0px 0px 15px #FF0000; border-radius: 12px;" />
+  </a>
+</p>
+
+---
+
+<!-- Fiery Identity Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Bug_Slayer-DD2727?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💀_Code_Warrior-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/⚡_Frontend_Sorcerer-8B0000?style=for-the-badge" />
+</p>
+
+---
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbatra2004&bg_color=000000&color=DD2727&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Dev's Activity Graph" />
+</p>
