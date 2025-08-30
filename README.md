@@ -120,7 +120,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=1000&lines=Something+Big+is+Brewing...;Remember+the+Date+-+17-08-2026;AI+is+More+Dangerous+than+Nukes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=1100&lines=Something+Big+is+Brewing...;Remember+the+Date+-+17-08-2026;AI+is+More+Dangerous+than+Nukes+💀" alt="Typing SVG" />
 </h1>
 <br>
 <br>
